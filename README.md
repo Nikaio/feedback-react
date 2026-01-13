@@ -36,12 +36,13 @@ O projeto possui:
 
 ## 🚀 Tecnologias Utilizadas
 
-- React
-- JavaScript (ES6+)
-- React Router DOM
-- HTML5
-- CSS3 (Flexbox e Grid)
-- Git & GitHub
+- ⚛️ React
+- ⚡ Vite
+- 🧠 JavaScript (ES6+)
+- 🎨 CSS3 (Flexbox e Grid)
+- 🌐 React Router DOM
+- 🚀 Vercel (Deploy)
+- 🐙 Git & GitHub (Versionamento)
 
 ---
 
